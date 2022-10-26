@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Jesse-Donald
+- 👀 I’m interested in web development and integrations
+- 🌱 I’m currently learning Node and React
+- 💞️ I’m looking to collaborate on anything you can think of :)
+- 📫 How to reach me 
