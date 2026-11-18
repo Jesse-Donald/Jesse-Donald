@@ -18,6 +18,7 @@ I'm a **Software Engineer** who likes writing software to integrate things that 
 ![Django](https://shields.io)
 
 **Tools & Infrastructure**
+
 ![Git](https://shields.io)
 ![Docker/Podman](https://shields.io)
 ![Ansible](https://shields.io)
